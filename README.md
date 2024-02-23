@@ -61,5 +61,5 @@ Les contributions à ce projet sont bienvenues. N'hésitez pas à forker le dép
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier (LICENSE)[https://github.com/Kirua6/Change_Timezone_Automatically_by_GPO/blob/main/LICENSE] pour plus de détails.
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](https://github.com/Kirua6/Change_Timezone_Automatically_by_GPO/blob/main/LICENSE) pour plus de détails.
 
