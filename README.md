@@ -49,11 +49,11 @@ Pour déployer ces scripts sur plusieurs machines via une stratégie de groupe (
    - Ajouter votre script dans Scripts Powershell -> copier le fichier Change_Timezone_Automatically_by_GPO.ps1 dans Logon, puis le choisir
 
 4. **Test et déploiement**:
-   - Testez la GPO dans une OU de test avant de l'appliquer à l'ensemble des utilisateurs et ordinateurs.
+   - Forcer en premier lieu une synchro des GPO avec la commande Powershell "gpupdate /force"
    - Testez la GPO pour tester son fonctionnement (exemple: changer manuellement le fuseau horaire avec le premier script, puis redémmarrer l'ordinateur).
 
-5. **Surveillance et maintenance**:
-   - Surveillez l'application de la GPO et mettez à jour les scripts ou les paramètres selon les besoins (je n'ai pas mis tout les pays du monde.
+6. **Surveillance et maintenance**:
+   - Surveillez l'application de la GPO et mettez à jour les scripts ou les paramètres selon les besoins (je n'ai pas mis tout les pays du monde).
 
 ## Contribuer
 
