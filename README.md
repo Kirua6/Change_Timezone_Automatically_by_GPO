@@ -4,8 +4,8 @@ Ce dépôt contient deux scripts PowerShell conçus pour faciliter la gestion de
 
 ## Scripts Inclus
 
-1. **Change_Timezone_Manually.ps1**: Une interface graphique permettant à l'utilisateur de sélectionner un fuseau horaire en fonction du continent et du pays.
-2. **Change_Timezone_Automatically_by_GPO.ps1**: Un script qui détermine automatiquement le fuseau horaire de l'utilisateur en fonction de son adresse IP et met à jour le système en conséquence.
+1. **Change_Timezone_Manually_Git.ps1**: Une interface graphique permettant à l'utilisateur de sélectionner un fuseau horaire en fonction du continent et du pays.
+2. **Change_Timezone_Automatically_by_GPO_Git.ps1**: Un script qui détermine automatiquement le fuseau horaire de l'utilisateur en fonction de son adresse IP et met à jour le système en conséquence.
 
 ## Installation
 
